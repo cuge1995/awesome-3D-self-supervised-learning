@@ -2,7 +2,9 @@
 A curated list of awesome 3D self-supervised methods
 
 ## 2022
-* coming soon!
+- [Masked Autoencoders for Point Cloud Self-supervised Learning.](https://arxiv.org/pdf/2203.06604.pdf) 
+  - [[Code](https://github.com/Pang-Yatian/Point-MAE)]
+  - Similar to Kaiming's MAE
 
 ## 2021
 
@@ -18,7 +20,8 @@ A curated list of awesome 3D self-supervised methods
 ## 2019
 
 
-
+- [Self-Supervised Deep Learning on Point Clouds by Reconstructing Space.](https://proceedings.neurips.cc/paper/2019/file/993edc98ca87f7e08494eec37fa836f7-Paper.pdf)   `NIPS 2019`
+  -  Pretask: to reconstruct point clouds whose parts have been randomly rearranged
 
 
 
