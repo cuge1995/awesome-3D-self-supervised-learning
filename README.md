@@ -23,6 +23,14 @@ A curated list of awesome 3D self-supervised methods
   - [[Code](https://github.com/IdanAchituve/DefRec_and_PCM)]
   - pretext tasks: Deformation Reconstruction
 
+
+## 2020
+- [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding.](https://arxiv.org/pdf/2007.10985.pdf)   `ECCV 2020`
+  - [[Code](https://github.com/facebookresearch/PointContrast)]
+  - pretext tasks: PointContrast
+
+
+
 ## 2019
 
 
