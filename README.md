@@ -13,6 +13,12 @@ A curated list of awesome 3D self-supervised methods
 
 - [Unsupervised domain adaptive 3d detection with multi-level consistency.](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Unsupervised_Domain_Adaptive_3D_Detection_With_Multi-Level_Consistency_ICCV_2021_paper.pdf)  `ICCV 2021`
 
+
+
+
+- [Exploring Geometry-aware Contrast and Clustering Harmonization for Self-supervised 3D Object Detection.](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Exploring_Geometry-Aware_Contrast_and_Clustering_Harmonization_for_Self-Supervised_3D_Object_ICCV_2021_paper.pdf)  `ICCV 2021`
+
+
 - [Self-Supervised Learning for Domain Adaptation on Point Clouds.](https://openaccess.thecvf.com/content/WACV2021/papers/Achituve_Self-Supervised_Learning_for_Domain_Adaptation_on_Point_Clouds_WACV_2021_paper.pdf)   `WACV 2021`
   - [[Code](https://github.com/IdanAchituve/DefRec_and_PCM)]
   - pretext tasks: Deformation Reconstruction
