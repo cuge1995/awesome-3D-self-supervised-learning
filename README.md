@@ -8,6 +8,10 @@ A curated list of awesome 3D self-supervised methods
 
 ## 2021
 
+- [Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts.](https://arxiv.org/pdf/2012.09165.pdf)   `CVPR 2021`
+  - [[Code](https://github.com/facebookresearch/ContrastiveSceneContexts)]
+
+
 - [Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models.](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf)   `CVPR 2021`
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects)]
 
