@@ -33,8 +33,9 @@ A curated list of awesome 3D self-supervised methods
   - [[Code](https://github.com/facebookresearch/PointContrast)]
   - pretext tasks: PointContrast
 
-
-
+- [Self-Supervised Learning of Point Clouds via Orientation Estimation.](http://www.vovakim.com/papers/20_3DV_RotationSupervision.pdf)   `3DV 2020`
+  - [[Code](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds)]
+  - pretext tasks: rotation
 ## 2019
 
 
